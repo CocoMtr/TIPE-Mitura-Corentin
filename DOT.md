@@ -27,7 +27,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. J'ai créé mon dépot sur github. Début des recherches.
 - Jeudi 9 février 2023 : Je me renseigne sur les sports présents aux jeux olympiques pour pouvoir faire un lien
--
+- Jeudi 2 mars 2023 : Suite des recherches pour trouver un sujet
 -
 -
 -
