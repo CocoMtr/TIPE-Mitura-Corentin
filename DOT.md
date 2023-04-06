@@ -30,8 +30,8 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 2 mars 2023 : Suite des recherches pour trouver un sujet
 - Jeudi 9 mars : Encore des recherches (scholar.google.com)
 - Jeudi 16 mars : Encore et encore des recherches (theses.fr)
-- https://www.theses.fr/2011BOR14391
--
--
+- Jeudi 23 mars : Encore et encore et encore des recherche.
+- Jeudi 30 mars : Encore et encore et encore et encore des recherches. (https://www.theses.fr/2011BOR14391)
+- Jeudi 6 avril : 
 -
 
