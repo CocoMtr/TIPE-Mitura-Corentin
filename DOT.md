@@ -35,4 +35,4 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 6 avril : 
 - Jeudi 1 juillet : https://www.irif.fr/~emiquey/stuff/TIPE.pdf
 https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_55.pdf
-
+https://cahier-de-prepa.fr/pc*-poincare/download?id=816
