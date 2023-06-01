@@ -33,5 +33,5 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 23 mars : Encore et encore et encore des recherche.
 - Jeudi 30 mars : Encore et encore et encore et encore des recherches. (https://www.theses.fr/2011BOR14391)
 - Jeudi 6 avril : 
--
+- Jeudi 1 juillet : https://www.irif.fr/~emiquey/stuff/TIPE.pdf
 
