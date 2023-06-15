@@ -28,22 +28,24 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. J'ai créé mon dépot sur github. Début des recherches.
 - Jeudi 9 février 2023 : Je me renseigne sur les sports présents aux jeux olympiques pour pouvoir faire un lien
 - Jeudi 2 mars 2023 : Suite des recherches pour trouver un sujet
-- Jeudi 9 mars : Recherches. (scholar.google.com)
+- Jeudi 9 mars : Recherches (scholar.google.com)
 - Jeudi 16 mars : Recherches (theses.fr)
-- Jeudi 23 mars : Recherches.
-- Jeudi 30 mars : Recherches. (https://www.theses.fr/2011BOR14391)
+- Jeudi 23 mars : Recherches
+- Jeudi 30 mars : Recherches
+  https://www.theses.fr/2011BOR14391
 - Jeudi 6 avril : https://www.irif.fr/~emiquey/stuff/TIPE.pdf
 - Jeudi 13 avril : https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_55.pdf
 - Jeudi 4 mai : https://cahier-de-prepa.fr/pc*-poincare/download?id=816
 - Jeudi 11 mai : Recherches.
-- Jeudi 18 mai : Début du programme en C
-- Jeudi 25 mai : Suite du programme
-- Jeudi 1 juin : 
-- Jeudi 8 juin :
+- Jeudi 18 mai : Recherches
+- Jeudi 25 mai : Début du programme en C
+- Jeudi 1 juin : Suite du programme
+- Jeudi 8 juin : Recherches
 - Jeudi 15 juin : Approfondissement bibliographie :
   https://hal.science/hal-02975085v1/document
   https://tennis2table.com/entrainement-ping-pong/entraineur/leffet-magnus-au-tennis-de-table.html
   http://perso.ens-lyon.fr/jean-christophe.geminard/FILES/nfares.pdf
+  https://www.olymphys.fr/public/fichiers/memoires/29-eq-46-memoire-Comment%20gagner%20dans%20les%20sports%20de%20balle%20grace%20a%20la%20physique%20.pdf
 
 
 
