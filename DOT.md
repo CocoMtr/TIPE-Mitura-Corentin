@@ -40,7 +40,8 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 25 mai : Suite du programme
 - Jeudi 1 juin : 
 - Jeudi 8 juin :
-- Jeudi 15 juin :
+- Jeudi 15 juin : Approfondissement bibliographie :
+  https://hal.science/hal-02975085v1/document
 
 
 
