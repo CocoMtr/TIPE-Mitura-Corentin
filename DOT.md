@@ -39,6 +39,8 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 18 mai : Début du programme en C
 - Jeudi 25 mai : Suite du programme
 - Jeudi 1 juin : 
+- Jeudi 8 juin :
+- Jeudi 15 juin :
 
 
 
