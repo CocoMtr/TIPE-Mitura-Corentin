@@ -42,6 +42,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 8 juin :
 - Jeudi 15 juin : Approfondissement bibliographie :
   https://hal.science/hal-02975085v1/document
+  https://tennis2table.com/entrainement-ping-pong/entraineur/leffet-magnus-au-tennis-de-table.html
 
 
 
