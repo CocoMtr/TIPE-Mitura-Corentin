@@ -1,16 +1,16 @@
-# Titre
+# Trajectoire de la balle de tennis de table
 
 ## Motivations pour le choix du sujet
-
+Sport que j'ai pratiqué et qui me plait.
 
 ## Ancrage du sujet au thème de l'année
-
+Le tennis de table est un sport mais également un jeu.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.
-2.
-3.
+1. Physique : Mécanique, Physique Théorique
+2. Informatique : Modélisation, Informatique Théorique
+3. Mathématiques : Analyse
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
@@ -33,7 +33,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Problématique retenue (max 50 mots)
-
+Comment les effets appliqués à la balle de tennis de table permettent un avantage en jeu ?
 
 ## Objectifs du TIPE (max 100 mots)
 
