@@ -24,8 +24,8 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 1. Effet Magnus
 2. Tennis de table 
 3. Trajectoire
-4. 
-5. 
+4. Force de trainée
+5. Modélisation
 
 
 ## Bibliographie commentée (max 650 mots)
@@ -33,13 +33,13 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Problématique retenue (max 50 mots)
-Comment les effets appliqués à la balle de tennis de table permettent un avantage en jeu ?
+Comment les effets appliqués à la balle de tennis de table, notamment l'effet Magnus, permettent un avantage en jeu ?
 
 ## Objectifs du TIPE (max 100 mots)
 
-1.
-2.
-3.
+1. Modéliser une trajectoire de balle de tennis de table sous diffèrents effets.
+2. Etudier l'effet Magnus et résoudre des équations différentielles couplées.
+3. Comprendre l'utilisation des effets lors d'un match de tennis de table.
 
 
 ## Références bibliographiques (2 à 10 références)
