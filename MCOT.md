@@ -21,11 +21,11 @@ Le tennis de table est un sport mais également un jeu.
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1.
-2.
-3.
-4.
-5.
+1. Effet Magnus
+2. Tennis de table 
+3. Trajectoire
+4. 
+5. 
 
 
 ## Bibliographie commentée (max 650 mots)
