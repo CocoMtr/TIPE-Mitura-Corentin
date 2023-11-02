@@ -44,11 +44,12 @@ Comment les effets appliqués à la balle de tennis de table, particulièrement 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1.  A. DUREY, M. LAURENT, R. JOURNEAUX : Avec des micro-ordinateurs, faire de la Physique d’abord !, BULLETIN DE L'UNION DES PHYSICIENS n°652.
+2. JORDAN CALANDRE, RENAUD PETERI, LAURENT MASCARILLA, BENOIT TREMBLAIS : Extraction et analyse de trajectoires de balle de Tennis de Table à partir d’une seule caméra pour l’aide à la performance sportive.
+3. RALF SCHNEIDER, LARS LEWERENTZ, KARL LUSKOW, MARC MARSCHALL, STEFAN KEMNITZ : Table Tennis and Physics.
+4. DIANA SERRA, AYKUT C. SATICI, FABIO RUGGIERO, VINCENZO LIPPIELLO, BRUNO SICILIANO : An Optimal Trajectory Planner for a Robotic Batting Task: The Table
+Tennis Example.
+5. SEIJI KUSUBORI, KAZUTO YOSHIDA, HIROSHI SEKIYA : THE FUNCTIONS OF SPIN ON SHOT TRAJECTORY IN TABLE TENNIS.
 6. 
 7. 
 8. 
