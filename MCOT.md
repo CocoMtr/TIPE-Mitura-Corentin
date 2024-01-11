@@ -47,10 +47,12 @@ Comment les effets appliqués à la balle de tennis de table, particulièrement 
 
 ## Objectifs du TIPE (max 100 mots)
 
-1. Modéliser une trajectoire de balle de tennis de table sous diffèrents effets.
-2. Etudier l'effet Magnus et résoudre des équations différentielles couplées.
-3. Réaliser plusieurs expériences afin de compléter l'étude.
-
+1. Modéliser une trajectoire de balle de tennis de table sous différents effets.
+2. Étudier l'effet Magnus et résoudre numériquement des équations différentielles couplées.
+3. Réaliser plusieurs expériences afin de compléter l'étude :
+• Utilisation d’une soufflerie pour trouver le coefficient de traînée Cx et le coefficient de la force de Magnus α.
+• Prise en vidéo d’une balle en chute libre pour déterminer sa vitesse limite v.
+• Prise en vidéo d’échanges donnant des effets à la balle afin de déterminer sa rotation ω.
 
 ## Références bibliographiques (2 à 10 références)
 
