@@ -54,12 +54,11 @@ Comment les effets appliqués à la balle de tennis de table, particulièrement 
 
 ## Références bibliographiques (2 à 10 références)
 
-1.  A. DUREY, M. LAURENT, R. JOURNEAUX : Avec des micro-ordinateurs, faire de la Physique d’abord !, BULLETIN DE L'UNION DES PHYSICIENS n°652.
-2. JORDAN CALANDRE, RENAUD PETERI, LAURENT MASCARILLA, BENOIT TREMBLAIS : Extraction et analyse de trajectoires de balle de Tennis de Table à partir d’une seule caméra pour l’aide à la performance sportive.
-3. RALF SCHNEIDER, LARS LEWERENTZ, KARL LUSKOW, MARC MARSCHALL, STEFAN KEMNITZ : Table Tennis and Physics.
-4. DIANA SERRA, AYKUT C. SATICI, FABIO RUGGIERO, VINCENZO LIPPIELLO, BRUNO SICILIANO : An Optimal Trajectory Planner for a Robotic Batting Task: The Table
-Tennis Example.
-5. SEIJI KUSUBORI, KAZUTO YOSHIDA, HIROSHI SEKIYA : THE FUNCTIONS OF SPIN ON SHOT TRAJECTORY IN TABLE TENNIS.
+1. A. DUREY, M. LAURENT, R. JOURNEAUX : Avec des micro-ordinateurs, faire de la Physique d’abord !, E.N.S Saint-Cloud, BULLETIN DE L'UNION DES PHYSICIENS n°652.
+2. JORDAN CALANDRE, RENAUD PETERI, LAURENT MASCARILLA, BENOIT TREMBLAIS : Extraction et analyse de trajectoires de balle de Tennis de Table à partir d’une seule caméra pour l’aide à la performance sportive. La Rochelle Université, MIA, La Rochelle, France. Université de Poitiers, XLIM, Poitiers, France.
+3. RALF SCHNEIDER, LARS LEWERENTZ, KARL LUSKOW, MARC MARSCHALL, STEFAN KEMNITZ : Statistical Analysis of Table-Tennis Ball Trajectories. Institute for Physics, University of Greifswald, 17498 Greifswald, Germany. Institute of Computer Science, University of Rostock, 18051 Rostock, Germany.
+4. DIANA SERRA, AYKUT C. SATICI, FABIO RUGGIERO, VINCENZO LIPPIELLO, BRUNO SICILIANO : An Optimal Trajectory Planner for a Robotic Batting Task: The Table Tennis Example. Department of Electrical Engineering and Information Technology, University of Naples Federico II, Via Claudio 21, 80125, Naples, Italy. Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 32 Vassar Street, Cambridge, Massachusetts, U.S.A.
+5. SEIJI KUSUBORI, KAZUTO YOSHIDA, HIROSHI SEKIYA : THE FUNCTIONS OF SPIN ON SHOT TRAJECTORY IN TABLE TENNIS. Prefectural University of Hiroshima, Shohbara City, Hiroshima Pref., Japan. Shizuoka University, Shizuoka City, Shizuoka Pref., Japan. Hiroshima University, Higashi Hiroshima City, Hiroshima Pref., Japan.
 6. 
 7. 
 8. 
