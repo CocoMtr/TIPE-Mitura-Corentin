@@ -40,7 +40,7 @@ La deuxième expérience consiste à lâcher la balle d’un endroit assez haut 
 
 La troisième expérience a été de filmer des échanges où la balle subissait des effets. En traitant la vidéo nous pouvons déterminer sa rotation.
 
-Enfin, un programme informatique a été fait utilisant les résultats pratiques trouvés pour tracer le trajectoire de la balle. Ce programme prend en compte le changement de modélisation entre les forces de frottements de la forme -lambda * v et -alpha * v² lorsque la vitesse passe d'une faible vitesse à une vitesse élevée et vice-versa. Il utilise également la méthode d'Euler pour pallier le problème dû aux équations couplées.
+Enfin, un programme informatique a été fait utilisant les résultats pratiques trouvés pour tracer le trajectoire de la balle. Ce programme prend en compte le changement de modélisation entre les forces de frottements de la forme -λv et -αv² lorsque la vitesse passe d'une faible vitesse à une vitesse élevée et vice-versa. Il utilise également la méthode d'Euler pour pallier le problème dû aux équations couplées.
 
 ## Problématique retenue (max 50 mots)
 Comment les effets appliqués à la balle de tennis de table, particulièrement l'effet Magnus, permettent un avantage en jeu ?
