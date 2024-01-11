@@ -29,18 +29,18 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Bibliographie commentée (max 650 mots)
-Le tennis de table est un sport/jeu à deux joueurs utilisant des raquettes et une balle faisant rebondir cette dernière sur une table. Au travers des différents coups que peuvent faire les pongistes, la balle reçoit plusieurs forces, notamment la force de Magnus. Ces forces vont modifier la trajectoire de la balle, c'est leur influence sur la trajectoire dont nous nous intéressons dans cette étude. L'étude de ces forces est importante pour les sportifs de haut niveau afin de comprendre comment influencer la trajectoire que va prendre la balle et ainsi obtenir plus de points que son adversaire pour gagner des tournois.
+Le tennis de table est un sport/jeu à deux joueurs utilisant des raquettes et une balle faisant rebondir cette dernière sur une table. Au travers des différents coups que peuvent faire les pongistes, la balle reçoit plusieurs forces, notamment la force de Magnus. Ces forces vont modifier la trajectoire de la balle, c'est leur influence sur la trajectoire dont nous nous intéressons dans cette étude. L'étude de ces forces est importante pour les sportifs de haut niveau afin de comprendre comment influencer la trajectoire que va prendre la balle et ainsi obtenir plus de points que son adversaire pour gagner des compétitions.
 
-Une étude physique a été mené afin de trouver les équations qui régissent la trajectoire de la balle. Il en a résulté des équations couplées très difficiles a appréhender, nous allons les résoudre numériquement par la suite. Ensuite, des expériences ont été réalisées en conséquence afin de déterminer le coefficient de la force de Magnus, la vitesse limite de la balle et sa rotation. 
+Une étude physique a été menée afin de trouver les équations qui régissent la trajectoire de la balle. Il en a résulté des équations couplées très difficiles a appréhender, nous allons les résoudre numériquement par la suite. Ensuite, des expériences ont été réalisées en conséquence afin de déterminer le coefficient de la force de Magnus, le coefficient de traînée, la vitesse limite de la balle et sa rotation.
 
-La première expérience a été réalisée à l'aide d'une soufflerie, d'un moteur, d'un roulement à billes et d'un appareil photo. La balle de tennis de table a été tenu sur une tige, la moteur a permis de mettre en mouvement le système avec le roulement à billes et la soufflerie a fait tourner le système, grâce à cette expérience on peut déterminer le coefficient de la force de Magnus.
+La première expérience a été réalisée à l'aide d'une soufflerie, d'un moteur et d'un roulement à billes. La balle de tennis de table a été tenue sur une tige, le moteur a permis de mettre en mouvement le système avec le roulement à billes et la soufflerie a fait tourner le système. Grâce à cette expérience on peut déterminer le coefficient de la force de Magnus. [1]
 De plus, en mettant la balle de tennis dans la soufflerie, on peut en déduire le coefficient de traînée Cx.
 
-La deuxième expérience consiste à lâcher la balle d’un endroit assez haut pour pouvoir faire l’acquisition d’une vidéo où la balle atteint sa vitesse limite. Nous pouvons ensuite trouver la valeur de sa vitesse limite en traitant la vidéo sur un logiciel le permettant.
+La deuxième expérience consiste à lâcher la balle d’un endroit assez haut pour pouvoir faire l’acquisition d’une vidéo où la balle atteint sa vitesse limite. Nous pouvons ensuite mesurer la valeur de sa vitesse limite en traitant la vidéo sur un logiciel le permettant.
 
-La troisième expérience a été de filmer des échanges où la balle subissait des effets. En traitant la vidéo nous pouvons déterminer sa rotation.
+La troisième expérience a été de filmer des échanges où la balle subissait des effets. En traitant la vidéo nous pouvons trouver sa rotation.
 
-Enfin, un programme informatique a été fait utilisant les résultats pratiques trouvés pour tracer le trajectoire de la balle. Ce programme prend en compte le changement de modélisation entre les forces de frottements de la forme -λv et -αv² lorsque la vitesse passe d'une faible vitesse à une vitesse élevée et vice-versa. Il utilise également la méthode d'Euler pour pallier le problème dû aux équations couplées.
+Enfin, un programme informatique a été fait utilisant les résultats pratiques trouvés pour tracer la trajectoire de la balle. Ce programme prend en compte le changement de modélisation entre les forces de frottements de la forme -λv et -αv² lorsque la vitesse passe d'une faible vitesse à une vitesse élevée et vice-versa. Il utilise également la méthode d'Euler pour pallier le problème des équations couplées.
 
 ## Problématique retenue (max 50 mots)
 Comment les effets appliqués à la balle de tennis de table, particulièrement l'effet Magnus, permettent un avantage en jeu ?
